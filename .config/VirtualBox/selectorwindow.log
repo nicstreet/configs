@@ -1,0 +1,16 @@
+VirtualBox GUI VM Selector Window 5.2.10_Ubuntu r121806 linux.amd64 (Jun 15 2018 16:14:07) release log
+00:00:00.500372 Log opened 2018-08-08T16:11:14.862574000Z
+00:00:00.500373 Build Type: release
+00:00:00.500376 OS Product: Linux
+00:00:00.500377 OS Release: 4.15.0-20-generic
+00:00:00.500379 OS Version: #21-Ubuntu SMP Tue Apr 24 06:16:15 UTC 2018
+00:00:00.500405 DMI Product Name: AX370-Gaming K5
+00:00:00.500415 DMI Product Version: Default string
+00:00:00.500471 Host RAM: 16051MB (15.6GB) total, 15668MB (15.3GB) available
+00:00:00.500476 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.500477 Process ID: 1136
+00:00:00.500478 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.500501 Qt version: 5.9.5
+00:00:00.534830 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.685918 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.696205 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 12x31 x 2536x1037
