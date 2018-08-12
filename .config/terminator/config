@@ -18,7 +18,7 @@
 [plugins]
 [profiles]
   [[default]]
-    background_color = "#1F1224"
+    background_color = "#1f1224"
     background_darkness = 0.9
     background_type = transparent
     cursor_color = "#aaaaaa"
@@ -29,8 +29,8 @@
     show_titlebar = False
     use_system_font = False
   [[streety]]
-    background_color = "#1F1224"
-    background_darkness = 0.9
+    background_color = "#282828"
+    background_darkness = 0.73
     background_type = transparent
     cursor_color = "#aaaaaa"
     font = Monospace 10
