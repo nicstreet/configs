@@ -30,6 +30,6 @@ apt-get install virtualbox -y
 
 # Pentesting Applications
 apt-get install dirb -y
-
+apt-get install nikto -y
 
 
